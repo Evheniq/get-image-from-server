@@ -1,6 +1,6 @@
 ### DONE
 - [x] Main task
-- [x] Pytest (I need more experience)
+- [x] Pytest
 
 ### Libs installation
 ```bash
